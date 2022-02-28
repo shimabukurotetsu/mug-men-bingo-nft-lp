@@ -47,13 +47,18 @@ header {
 header .container {
   flex-direction: row;
   justify-content: space-between;
-  align-items: center;
 }
 
 .menu {
   display: flex;
   gap: 2rem;
   align-items: center;
+}
+
+.subheader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* BUTTONS */
