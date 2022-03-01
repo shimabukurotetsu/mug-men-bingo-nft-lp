@@ -61,10 +61,29 @@ header .container {
   padding: 15px;
 }
 
+/* Body */
+
 .mug-men-banner {
   height: auto;
   padding: 15px;
  }
+
+.content h1 {
+  text-shadow: 2px 2px 0 var(--accent-color);
+  font-style: italic;
+  margin: 2rem 0;
+  font-size: 3.5rem;
+  text-align: center;
+}
+
+.content p {
+  font-size: 1.7rem;
+  font-family: var(--font-secondary);
+  margin: 2rem;
+  text-align: center;
+}
+
+
 
 /* BUTTONS */
 
