@@ -93,6 +93,7 @@ header .container {
 .content p#roadmap-desc {
   text-align: left;
   padding: .5rem;
+  max-width: 1300px;
 }
 
 /* BUTTONS */
