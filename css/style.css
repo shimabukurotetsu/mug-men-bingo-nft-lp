@@ -79,13 +79,15 @@ header .container {
 }
 
 .content p {
-  font-size: 1.7rem;
+  font-size: 1.2rem;
   font-family: var(--font-secondary);
   margin: 2rem;
   text-align: center;
 }
 
-
+.content p#roadmap {
+  text-align: left;
+}
 
 /* BUTTONS */
 
