@@ -65,7 +65,8 @@ header .container {
 /* Body */
 
 .mug-men-banner {
-  
+  max-width: 100%;
+  height: auto;
   padding: 15px;
  }
 
