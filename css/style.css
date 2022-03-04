@@ -85,8 +85,14 @@ header .container {
   text-align: center;
 }
 
-.content p#roadmap {
+.content p#roadmap-date {
   text-align: left;
+  font-weight: bold;
+}
+
+.content p#roadmap-desc {
+  text-align: left;
+  padding: .5rem;
 }
 
 /* BUTTONS */
