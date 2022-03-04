@@ -33,7 +33,7 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  flex-grow: auto;
+
 }
 
 /* HEADER */
