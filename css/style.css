@@ -102,6 +102,11 @@ header .container {
   max-width: 1300px;
 }
 
+.content p#faq-desc {
+  text-align: left;
+  max-width: 1300px;
+}
+
 /* BUTTONS */
 
 .btn {
